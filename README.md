@@ -1,2 +1,2 @@
-<img src="https://media2.giphy.com/media/KTYioWZpeaVE1zGNnr/giphy.gif.gif">
+![Gif](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)
 
