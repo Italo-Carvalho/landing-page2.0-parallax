@@ -1,2 +1,2 @@
 
-<img src="https://media.giphy.com/media/KTYioWZpeaVE1zGNnr/giphy.gif" width="450" height="300" />
+![Alt Text](https://media.giphy.com/media/KTYioWZpeaVE1zGNnr/giphy.gif)
